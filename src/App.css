@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.style{
+    text-align: center;
+    margin-top: 75px;
+    background-color: rgb(56, 82, 251);
+    padding: 50px;
+    width: 525px;
+    margin-left: 410px;
+    height: 580px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 5px rgb(131, 128, 128);
+    flex: 100%;
+}
+button {
+    padding: 5px;
+    width: 100px;
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: aqua;
+    box-shadow: 1px 1px 5px 5px rgb(33, 151, 255);
+    border: none;
+}
+.head {
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+}
+.spec{
+    list-style-type: none;
+    text-align: justify;
+    margin-top: 10px;
+}
+li {
+    margin-left: 10px;
+    margin-top: 5px;
+    color: white;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+.off{
+    list-style-type: none;
+    display: flex;
+    margin-top: 20px;
+}
+.g{
+    color: rgb(0, 255, 0);
+}
+.hh {
+    color: black;
+}
+.del {
+    color: rgb(178, 177, 177);
+}
+
+table {
+    width: 1100px;
+    margin-top: 25px;
+}
+.all {
+    display: flex;
+}
+.car{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+marquee{
+    width: 170px;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.sh{
+    color: red;
+    font-size: 15px;
+}
+.amount {
+    text-align: center;
+    margin-top: 25px;
+}
+.cart {
+    color: rgb(0, 0, 0);
+}
